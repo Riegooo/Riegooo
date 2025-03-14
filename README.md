@@ -30,4 +30,6 @@
     <a href="https://visualstudio.com" target="_blank" title="Visual Studio"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></a>
     <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
     <a href="https://eclipseide.org/" target="_blank" title="Eclipse"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" title="Intellij"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
+	
 </div>
