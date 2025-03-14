@@ -6,13 +6,12 @@
 
 <div align="center">
     <h2>Languages I know/use</h2>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" title="Html5"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" title="Css3"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://github.com/Riegooo" title="Java (a little bit)"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" title="Html5"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" title="Php"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
 </div>
-
 
 <div align="center">
     <h2>Databases I know/use</h2>
