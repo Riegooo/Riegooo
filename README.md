@@ -2,7 +2,14 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=500&color=A615F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Riego;A+frontend+developer;Nice+to+meet+you" alt="Typing SVG" /></a>
 </div>
 
-<br />
+<div align="center">
+    <a href="https://discord.com/users/734302186644701205" target="_blank">
+        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/853232567025139712?borderRadius=5px&bg=1f1f1f">
+    </a>
+</div>
+
+
+<br/>
 
 <div align="center">
     <h2>Languages I know/use</h2>
