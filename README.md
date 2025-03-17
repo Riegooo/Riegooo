@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <h2>Databases I know/use</h2>
+    <h2>Database I know/use</h2>
     <a href="https://mysql.com" target="_blank" title="MySQL"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
 
