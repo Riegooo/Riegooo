@@ -1,15 +1,18 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=500&color=A615F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Christian;A+frontend+developer;Nice+to+meet+you" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg">
+	     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
+	</a>
 </div>
 
 <br/>
 
 <div align="center">
-    <h2>Languages I know/use</h2>
+    <h2>Languages I'm Familiar With</h2>
     <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" title="Html5"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" title="Css3"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://github.com/Riegooo" title="Java (a little bit)"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+    <a href="https://github.com/Riegooo" title="Python"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" title="Php"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
 </div>
 
