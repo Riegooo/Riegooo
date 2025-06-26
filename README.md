@@ -22,10 +22,15 @@
 </div>
 
 <div align="center">
+    <h2>Libraries / Frameworks</h2>
+    <a href="https://mysql.com" target="_blank" title="tailwind"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
+</div>
+
+<div align="center">
     <h2>Tools I know/use</h2>
     <a href="https://visualstudio.com" target="_blank" title="Visual Studio"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></a>
     <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
     <a href="https://eclipseide.org/" target="_blank" title="Eclipse"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" title="Intellij"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
-	
+	<a href="https://www.jetbrains.com/pycharm/" target="_blank" title="Pycham"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></a>
 </div>
