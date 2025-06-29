@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://git.io/typing-svg">
-	     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
 	</a>
 </div>
 
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    <h2>Libraries / Frameworks</h2>
+    <h2>Library / Framework</h2>
     <a href="https://mysql.com" target="_blank" title="tailwind"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
 </div>
 
@@ -33,4 +33,5 @@
     <a href="https://eclipseide.org/" target="_blank" title="Eclipse"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" title="Intellij"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
 	<a href="https://www.jetbrains.com/pycharm/" target="_blank" title="Pycham"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></a>
+    <a href="https://www.figma.com/" target="_blank" title="Figma"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
 </div>
