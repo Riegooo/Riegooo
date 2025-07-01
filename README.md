@@ -1,7 +1,13 @@
 <div align="center">
 	<a href="https://git.io/typing-svg">
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
 	</a>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/734302186644701205" target="_blank">
+        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/853232567025139712">
+    </a>
 </div>
 
 <br/>
@@ -14,10 +20,6 @@
     <a href="https://github.com/Riegooo" title="Java (a little bit)"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
     <a href="https://github.com/Riegooo" title="Python"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" title="Php"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
-</div>
-
-<div align="center">
-    <h2>Database I know/use</h2>
     <a href="https://mysql.com" target="_blank" title="MySQL"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
 
