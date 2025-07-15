@@ -26,6 +26,8 @@
 <div align="center">
     <h2>Library / Framework</h2>
     <a href="https://mysql.com" target="_blank" title="tailwind"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
+    <a href="https://github.com/Riegooo" target="_blank" title="opencv"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></a>
+
 </div>
 
 <div align="center">
