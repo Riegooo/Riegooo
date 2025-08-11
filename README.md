@@ -1,10 +1,4 @@
 <div align="center">
-	<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Christian!;An+aspiring+Software+Engineer." alt="Typing SVG"/>
-	</a>
-</div>
-
-<div align="center">
     <a href="https://github.com/Riegooo" target="_blank">
         <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/853232567025139712">
     </a>
