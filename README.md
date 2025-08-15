@@ -35,4 +35,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank" title="Intellij"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
 	<a href="https://www.jetbrains.com/pycharm/" target="_blank" title="Pycham"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></a>
     <a href="https://www.figma.com/" target="_blank" title="Figma"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+	<a href="https://github.com/" target="_blank" title="Github"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+    <a href="https://github.com/" target="_blank" title="Github"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
