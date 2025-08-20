@@ -36,5 +36,5 @@
 	<a href="https://www.jetbrains.com/pycharm/" target="_blank" title="Pycham"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></a>
     <a href="https://www.figma.com/" target="_blank" title="Figma"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
 	<a href="https://github.com/" target="_blank" title="Github"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-    <a href="https://github.com/" target="_blank" title="Github"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+    <a href="https://git-scm.com/" target="_blank" title="Github"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
