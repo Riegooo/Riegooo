@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-    <h2>I'm Currently Learning</h2>
+    <h2>Programming Languages/Framework I'm Currently Learning</h2>
     <a href="https://github.com/Riegooo" title="Flask"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a>
     <a href="https://github.com/Riegooo" title="Python"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 </div>
