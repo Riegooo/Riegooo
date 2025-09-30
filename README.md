@@ -12,8 +12,8 @@
 
 <div align="center">
     <h2>I'm Currently Learning</h2>
+	<a href="https://github.com/Riegooo" title="nodejs"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
     <a href="https://github.com/Riegooo" title="React"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-    <a href="https://github.com/Riegooo" title="nodejs"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
     <a href="https://github.com/Riegooo" title="Js"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 </div>
 
