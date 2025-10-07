@@ -1,5 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/username?label=Followers&style=social)
-
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=500&color=A615F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Christian;An+aspiring+Software+Engineer.;Nice+to+meet+you" alt="Typing SVG" /></a>
 </div>
