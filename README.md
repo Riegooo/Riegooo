@@ -15,7 +15,7 @@ Frameworks, languages, I actively use in my daily projects and tasks.
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
-[![PHP](https://img.shields.io/badge/PHP-000.svg?&logo=php&style=for-the-badge)](#)
+[![PHP](https://img.shields.io/badge/Php-000.svg?&logo=Php&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
@@ -23,7 +23,7 @@ Frameworks, languages, I actively use in my daily projects and tasks.
 [![FLASK](https://img.shields.io/badge/FLASK-000.svg?&logo=flask&style=for-the-badge)](#)
 [![OPENCV](https://img.shields.io/badge/OPENCV-000.svg?&logo=opencv&style=for-the-badge)](#)
 
-tools I use frequently but don't fall into my primary or secondary stacks.
+Tools I use frequently but don't fall into my primary or secondary stacks.
 
 [![Git](https://img.shields.io/badge/Git-000.svg?&logo=git&style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000.svg?&logo=github&style=for-the-badge)](#)
@@ -33,6 +33,11 @@ tools I use frequently but don't fall into my primary or secondary stacks.
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
 [![INTELLIJ](https://img.shields.io/badge/INTELLIJ-000.svg?&logo=intellij&style=for-the-badge)](#)
 [![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
+
+Programming Languages/Frameworks i'm Currently Learning
+[![React](https://img.shields.io/badge/React-000.svg?&logo=react&style=for-the-badge)](#)
+[![Node](https://img.shields.io/badge/Nodejs-000.svg?&logo=node.js&style=for-the-badge)](#)
+[![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
