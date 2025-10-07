@@ -44,7 +44,7 @@ Programming Languages/Frameworks i'm Currently Learning
 This is where you can contact me: 
 
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord&style=for-the-badge)](https://discord.com/users/708367833394053242)
-[![Gmail](https://img.shields.io/badge/Email-000?logo=gmail&style=for-the-badge)](chrsitiandanielcagas0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-000?logo=gmail&style=for-the-badge)](christiandanielcagas0@gmail.com)
 
 ---
 
