@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Hi! I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a Bachelor of Science in Computer Science. I’m passionate about learning new technologies, building innovative projects, and continuously improving my coding skills. 🚀
+I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a Bachelor of Science in Computer Science. I’m passionate about learning new technologies, building innovative projects, and continuously improving my coding skills. 🚀
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds
 
