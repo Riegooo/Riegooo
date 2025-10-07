@@ -26,7 +26,8 @@
 
 <div align="center">
     <h2>Tools I know/use</h2>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,figma,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,figma" /><br>
+	<img src="https://skillicons.dev/icons?i=github,git" /><br>
 </div>
 
 <hr/>
