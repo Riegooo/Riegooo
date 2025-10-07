@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://github.com/Riegooo" target="_blank">
-        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/853232567025139712">
+        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/708367833394053242">
     </a>
 </div>
 
