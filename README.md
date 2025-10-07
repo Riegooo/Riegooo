@@ -23,6 +23,13 @@ Frameworks, languages, I actively use in my daily projects and tasks.
 [![FLASK](https://img.shields.io/badge/FLASK-000.svg?&logo=flask&style=for-the-badge)](#)
 [![OPENCV](https://img.shields.io/badge/OPENCV-000.svg?&logo=opencv&style=for-the-badge)](#)
 
+Programming Languages/Frameworks i'm Currently Learning
+
+[![React](https://img.shields.io/badge/React-000.svg?&logo=react&style=for-the-badge)](#)
+[![Node](https://img.shields.io/badge/Nodejs-000.svg?&logo=node.js&style=for-the-badge)](#)
+[![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
+
+
 Tools I use frequently but don't fall into my primary or secondary stacks.
 
 [![Git](https://img.shields.io/badge/Git-000.svg?&logo=git&style=for-the-badge)](#)
@@ -33,12 +40,6 @@ Tools I use frequently but don't fall into my primary or secondary stacks.
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
 [![INTELLIJ](https://img.shields.io/badge/INTELLIJ-000.svg?&logo=intellij&style=for-the-badge)](#)
 [![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
-
-Programming Languages/Frameworks i'm Currently Learning
-
-[![React](https://img.shields.io/badge/React-000.svg?&logo=react&style=for-the-badge)](#)
-[![Node](https://img.shields.io/badge/Nodejs-000.svg?&logo=node.js&style=for-the-badge)](#)
-[![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
