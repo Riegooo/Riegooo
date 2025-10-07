@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I am Christian Cagas, An aspiring Software Engineer.
+Hi! I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a Bachelor of Science in Computer Science. I’m passionate about learning new technologies, building innovative projects, and continuously improving my coding skills. 🚀
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds
 
@@ -30,7 +30,7 @@ Programming Languages/Frameworks i'm Currently Learning
 [![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
 
 
-Tools I use frequently but don't fall into my primary or secondary stacks.
+Tools I use 
 
 [![Git](https://img.shields.io/badge/Git-000.svg?&logo=git&style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000.svg?&logo=github&style=for-the-badge)](#)
