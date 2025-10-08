@@ -13,8 +13,8 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 Frameworks, languages, I actively use in my daily projects and tasks.
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
-[![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
+[![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 [![PHP](https://img.shields.io/badge/Php-000.svg?&logo=Php&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
@@ -37,9 +37,9 @@ Tools I use
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000?logo=windows11&style=for-the-badge)](#)
 [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-000?logo=vscode&style=for-the-badge)](#)
 [![VS](https://custom-icon-badges.demolab.com/badge/Visual_Studio-000?logo=visualstudio&style=for-the-badge)](#)
+[![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
 [![INTELLIJ](https://img.shields.io/badge/INTELLIJ-000.svg?&logo=intellij&style=for-the-badge)](#)
-[![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
