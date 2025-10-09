@@ -53,8 +53,8 @@ This is where you can contact me:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/708367833394053242?idleMessage=Code%20is%20poetry%20written%20in%20logic.&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/708367833394053242?idleMessage=Code%20is%20poetry%20written%20in%20logic.&theme=light">
-    <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/708367833394053242?idleMessage=Code%20is%20poetry%20written%20in%20logic.&theme=light" width="500">
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/708367833394053242?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/708367833394053242?theme=light">
+    <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/708367833394053242">
   </picture>
 </div>
