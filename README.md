@@ -10,7 +10,7 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, I actively use in my daily projects and tasks.
+Frameworks, languages, I actively use in my daily projects and tasks.<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
