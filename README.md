@@ -25,7 +25,6 @@ Frameworks, languages, I actively use in my daily projects and tasks.<img src="h
 
 Programming Languages/Frameworks i'm Currently Learning
 
-[![React](https://img.shields.io/badge/React-000.svg?&logo=react&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/Nodejs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
 
