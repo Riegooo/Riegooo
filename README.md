@@ -37,6 +37,7 @@ Tools I use
 [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-000?logo=vscode&style=for-the-badge)](#)
 [![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
+[![FIGMA](https://img.shields.io/badge/FIGMA-000.svg?&logo=figma&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
