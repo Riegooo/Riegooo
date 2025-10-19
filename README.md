@@ -10,7 +10,7 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, I actively use in my daily projects and tasks.<img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+Frameworks, languages, Libraries I actively use in my daily projects and tasks.<img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
@@ -22,6 +22,11 @@ Frameworks, languages, I actively use in my daily projects and tasks.<img src="h
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
 [![FLASK](https://img.shields.io/badge/FLASK-000.svg?&logo=flask&style=for-the-badge)](#)
 [![OPENCV](https://img.shields.io/badge/OPENCV-000.svg?&logo=opencv&style=for-the-badge)](#)
+![Python](https://img.shields.io/badge/Python-Tkinter-black?logo=python&logoColor=white)
+
+
+
+
 
 Programming Languages/Frameworks i'm Currently Learning
 
