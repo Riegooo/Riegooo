@@ -22,7 +22,7 @@ Frameworks, languages, Libraries I actively use in my daily projects and tasks.<
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
 [![FLASK](https://img.shields.io/badge/FLASK-000.svg?&logo=flask&style=for-the-badge)](#)
 [![OPENCV](https://img.shields.io/badge/OPENCV-000.svg?&logo=opencv&style=for-the-badge)](#)
-![Python](https://img.shields.io/badge/Python-Tkinter-black?logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/TKINTER-000?logo=python&logoColor=white)](#)
 
 
 
