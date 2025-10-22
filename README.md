@@ -10,7 +10,7 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, Libraries I actively use.
+<img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">  Frameworks, languages, Libraries I actively use.
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
