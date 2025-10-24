@@ -20,8 +20,6 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
-[![FLASK](https://img.shields.io/badge/FLASK-000.svg?&logo=flask&style=for-the-badge)](#)
-[![OPENCV](https://img.shields.io/badge/OPENCV-000.svg?&logo=opencv&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/TKINTER-000?logo=python&logoColor=white)](#)
 
 
