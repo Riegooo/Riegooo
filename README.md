@@ -28,7 +28,6 @@ I’m Christian Daniel Cagas, an aspiring Software Engineer currently pursuing a
 I'm Currently Learning
 
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
-[![Nextjs](https://img.shields.io/badge/NextJS-000.svg?&logo=next.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
 
 
