@@ -27,6 +27,7 @@ I'm Currently Learning
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 
 Tools I use 
