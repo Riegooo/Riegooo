@@ -24,6 +24,7 @@ An aspiring Software Engineer currently pursuing a Bachelor of Science in Comput
 
 I'm Currently Learning
 
+[![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
