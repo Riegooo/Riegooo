@@ -12,7 +12,11 @@ An aspiring Software Engineer currently pursuing a Bachelor of Science in Comput
 <img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">  Frameworks, languages, Libraries I actively use.
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
+[![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
+[![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
+[![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
@@ -24,11 +28,7 @@ An aspiring Software Engineer currently pursuing a Bachelor of Science in Comput
 
 I'm Currently Learning
 
-[![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
-[![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
-[![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 
 Tools I use 
