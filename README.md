@@ -9,7 +9,7 @@ An aspiring Software Engineer currently pursuing a Bachelor of Science in Comput
 
 # 🖥️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">  Frameworks, languages, Libraries I actively use.
+Frameworks, languages, Libraries I actively use.
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
