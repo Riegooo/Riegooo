@@ -28,7 +28,7 @@ Frameworks, languages, and tools I have previously used in projects. While they 
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 
 
-I'm Currently Learning
+Frameworks, languages, I'm Currently Learning
 
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
