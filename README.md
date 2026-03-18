@@ -9,22 +9,23 @@ An aspiring Software Engineer currently pursuing a Bachelor of Science in Comput
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, Libraries I actively use.
+Frameworks, languages, and tools I actively use in my daily projects and tasks.
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/ExpressJs-000.svg?&logo=express&style=for-the-badge)](#)
-[![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
 [![Postman](https://img.shields.io/badge/postman-000.svg?&logo=postman&style=for-the-badge)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
 
 
+Frameworks, languages, and tools I have previously used in projects. While they are not part of my daily workflow
 
+[![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 
 
 I'm Currently Learning
