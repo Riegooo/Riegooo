@@ -15,7 +15,6 @@ Frameworks, languages, and tools I actively use in my daily projects and tasks.
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/Express-000.svg?&logo=express&style=for-the-badge)](#)
-[![Postman](https://img.shields.io/badge/postman-000.svg?&logo=postman&style=for-the-badge)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
@@ -42,6 +41,7 @@ Tools I use
 [![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
 [![FIGMA](https://img.shields.io/badge/FIGMA-000.svg?&logo=figma&style=for-the-badge)](#)
+[![Postman](https://img.shields.io/badge/postman-000.svg?&logo=postman&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
