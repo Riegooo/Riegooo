@@ -1,5 +1,5 @@
 # 👋 Hi there
-An aspiring Software Engineer currently pursuing a Bachelor of Science in Computer Science, specializing in backend development. Passionate about learning new technologies, building innovative projects, and continuously improving coding skills to create efficient and scalable solutions. 🚀
+Computer Science student aspiring to be a Software Engineer, focused on backend development. Always learning, building, and improving to create efficient and scalable solutions.
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds
 
