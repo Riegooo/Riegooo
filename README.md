@@ -1,5 +1,5 @@
 # 👋 Hi there
-Computer Science student aspiring to be a Software Engineer, focused on backend development. Always learning, building, and improving to create efficient and scalable solutions.
+Computer Science student focused on backend development, aiming to become a Software Engineer. Continuously learning and building systems with a focus on efficiency and scalability.
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds
 
