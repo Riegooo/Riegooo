@@ -37,6 +37,7 @@ Tools I use
 [![Git](https://img.shields.io/badge/Git-000.svg?&logo=git&style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000.svg?&logo=github&style=for-the-badge)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000?logo=windows11&style=for-the-badge)](#)
+[![Linux](https://custom-icon-badges.demolab.com/badge/Linux-000?logo=linux&style=for-the-badge)](#)
 [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-000?logo=vscode&style=for-the-badge)](#)
 [![ECLIPSE](https://img.shields.io/badge/ECLIPSE-000.svg?&logo=eclipse&style=for-the-badge)](#)
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
