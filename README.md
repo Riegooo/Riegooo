@@ -9,7 +9,7 @@ Computer Science student focused on backend development, aiming to become a Soft
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, and tools I actively use in my daily projects and tasks.
+### Languages
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
@@ -21,13 +21,15 @@ Frameworks, languages, and tools I actively use in my daily projects and tasks.
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
 
 
-Frameworks, languages, and tools I have previously used in projects. While they are not part of my daily workflow
+### Previously Worked With
+Technologies I've used in past projects and learning experiences.
 
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
 
 
-Frameworks, languages, I'm Currently Learning
+### Currently Learning
+Technologies I'm actively studying and exploring.
 
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
@@ -48,7 +50,7 @@ Tools I use
 This is where you can contact me: 
 
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord&style=for-the-badge)](https://discord.com/users/708367833394053242)
-[![Gmail](https://img.shields.io/badge/Email-000?logo=gmail&style=for-the-badge)](christiandanielcagas0@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-000?logo=gmail&style=for-the-badge)](mailto:christiandanielcagas0@gmail.com)
 
 ---
 
