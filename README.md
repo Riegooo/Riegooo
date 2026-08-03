@@ -31,6 +31,7 @@ Technologies I've used in past projects and learning experiences.
 ### Currently Learning
 Technologies I'm actively studying and exploring.
 
+[![NestJs](https://img.shields.io/badge/NestJs-000?logo=nestjs&style=for-the-badge)](#)
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
 [![SocketIo](https://img.shields.io/badge/Socket.Io-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
