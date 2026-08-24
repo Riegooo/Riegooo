@@ -9,7 +9,7 @@ Computer Science student focused on backend development, aspiring to become a So
 
 # 🖥️ Tech Stack
 
-### Languages
+### Languages, Frameworks, Tools
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
@@ -18,16 +18,10 @@ Computer Science student focused on backend development, aspiring to become a So
 [![NestJs](https://img.shields.io/badge/NestJs-000?logo=nestjs&style=for-the-badge)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
+[![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-000.svg?&logo=tailwindcss&style=for-the-badge)](#)
-
-
-### Previously Worked With
-Technologies I've used in past projects and learning experiences.
-
-[![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
-
 
 ### Currently Learning
 Technologies I'm actively studying and exploring.
