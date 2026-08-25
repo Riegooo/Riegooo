@@ -19,6 +19,7 @@ Computer Science student focused on backend development, aspiring to become a So
 [![NestJs](https://img.shields.io/badge/NestJs-000?logo=nestjs&style=for-the-badge)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000.svg?&logo=postgresql&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-000.svg?&logo=mysql&style=for-the-badge)](#)
+[![GHA](https://img.shields.io/badge/GitHub_Actions-000.svg?&logo=github-actions&style=for-the-badge)](#)
 [![PYTHON](https://img.shields.io/badge/Python-000.svg?&logo=python&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/Html-000.svg?&logo=html5&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-000.svg?&logo=css&style=for-the-badge)](#)
