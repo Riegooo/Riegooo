@@ -13,6 +13,7 @@ Computer Science student focused on backend development, aspiring to become a So
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
+[![DJS](https://img.shields.io/badge/Discord.js-000.svg?&logo=discord.js&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/NodeJs-000.svg?&logo=node.js&style=for-the-badge)](#)
 [![Expressjs](https://img.shields.io/badge/Express-000.svg?&logo=express&style=for-the-badge)](#)
 [![NestJs](https://img.shields.io/badge/NestJs-000?logo=nestjs&style=for-the-badge)](#)
