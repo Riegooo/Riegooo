@@ -33,7 +33,7 @@ Technologies I'm actively studying and exploring.
 [![SocketIo](https://img.shields.io/badge/Socket.Io-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 
-Tools I use 
+### Tools I use 
 
 [![Git](https://img.shields.io/badge/Git-000.svg?&logo=git&style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000.svg?&logo=github&style=for-the-badge)](#)
