@@ -9,6 +9,8 @@ Computer Science student specializing in backend development, with a goal of bec
 
 # 🖥️ Tech Stack
 
+<img src="https://raw.githubusercontent.com/Riegooo/Riegooo/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 ### Languages, Frameworks, Tools
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
