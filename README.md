@@ -34,6 +34,8 @@ Technologies I'm actively studying and exploring.
 [![WebSocket](https://img.shields.io/badge/WebSocket-000?logo=socketdotio&style=for-the-badge)](#)
 [![SocketIo](https://img.shields.io/badge/Socket.Io-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
+[![C#](https://img.shields.io/badge/CSharp-000.svg?&logo=C&style=for-the-badge)](#)
+
 
 ### Tools I use 
 
