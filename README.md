@@ -35,6 +35,9 @@ Technologies I'm actively studying and exploring.
 [![SocketIo](https://img.shields.io/badge/Socket.Io-000?logo=socketdotio&style=for-the-badge)](#)
 [![JAVA](https://img.shields.io/badge/Java-000.svg?&logo=java&style=for-the-badge)](#)
 [![C#](https://img.shields.io/badge/CSharp-000.svg?&logo=C&style=for-the-badge)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![](https://img.shields.io/badge/CSharp-000.svg?&logo=C&style=for-the-badge)](#)
 
 
 ### Tools I use 
