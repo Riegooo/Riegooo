@@ -51,6 +51,7 @@ Technologies I'm actively studying and exploring.
 [![PYCHARM](https://img.shields.io/badge/PYCHARM-000.svg?&logo=pycharm&style=for-the-badge)](#)
 [![FIGMA](https://img.shields.io/badge/FIGMA-000.svg?&logo=figma&style=for-the-badge)](#)
 [![Postman](https://img.shields.io/badge/postman-000.svg?&logo=postman&style=for-the-badge)](#)
+[![RIDER](https://img.shields.io/badge/RIDER-000.svg?&logo=rider&style=for-the-badge)](#)
 
 
 This is where you can contact me: 
